@@ -1,0 +1,6 @@
+name: StickEffect
+author: wax_dev
+version: 1.0.0-beta
+api: 4.0.3
+main: wax\Main
+description: StickEffect pour Rubydium
